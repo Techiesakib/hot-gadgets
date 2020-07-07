@@ -1,0 +1,50 @@
+.carousel-item{
+    padding: 20px 60px;
+}
+.buy-now-button{
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    padding: 10px 30px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+    padding: 20px 30px;
+}
+.smart{
+    padding: 40px 0;
+    text-align: center;
+}
+.card h5{
+    text-align: center;
+}
+.card-footer{
+    text-align: center;
+    border: none;
+    background-color: #fff;
+}
+.cat{
+    padding: 80px 0;
+    text-align: center;
+}
+.left{
+    background-color: black;
+}
+.shop{
+    box-shadow: 10px 10px 30px gray;
+    padding: 60px 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+}
+.pic{
+    width: 100%;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+}
